@@ -1,26 +1,26 @@
 # 👩‍💻 Victória de Carvalho Nunes  
 
-### 🚀 Estudante de Tecnologia | Iniciando na Programação  
+### 🚀 Technology Student | Beginning in Programming  
 
-Apaixonada por tecnologia, estou construindo minha base em **HTML, Lógica de Programação e Algoritmos**, sempre buscando novos desafios para evoluir como desenvolvedora.  
-
----  
-
-## 🛠️ Habilidades  
-
-- **HTML**: Estruturação de páginas web  
-- **Lógica de Programação**: Resolução de problemas e pensamento computacional  
-- **Algoritmos**: Estruturas condicionais, loops e otimização  
-- **Linguagem C**: Desenvolvimento de aplicações estruturadas  
+Passionate about technology, I am building my foundation in **HTML, Programming Logic, and Algorithms**, always looking for new challenges to grow as a developer.  
 
 ---  
 
-## 📂 Projetos  
+## 🛠️ Skills  
 
-### 🎮 Super Trunfo - Países  
-- **Projeto acadêmico em C** para cadastro e comparação de cartas do jogo Super Trunfo com tema de cidades.  
-- **Tecnologias:** C  
-- **Repositório:** [🔗 Acessar](https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-vicxnunes) *(pode ter restrições de acesso por ser uma sala de aula)*  
+- **HTML**: Web page structuring  
+- **Programming Logic**: Problem-solving and computational thinking  
+- **Algorithms**: Conditional structures, loops, and optimization  
+- **C Language**: Developing structured applications  
+
+---  
+
+## 📂 Projects  
+
+### 🎮 Super Trunfo - Countries  
+- **Academic project in C** for registering and comparing Super Trunfo game cards with a city theme.  
+- **Technologies:** C  
+- **Repository:** [🔗 Access](https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-vicxnunes) *(may have access restrictions as it is part of a classroom project)*  
 
 ---  
 
@@ -41,9 +41,8 @@ Apaixonada por tecnologia, estou construindo minha base em **HTML, Lógica de Pr
 
 ---  
 
-## 📬 Contato  
+## 📬 Contact  
 
-- 📩 **E-mail:** [victorianunes.dev@gmail.com](mailto:victorianunes.dev@gmail.com)  
+- 📩 **Email:** [victorianunes.dev@gmail.com](mailto:victorianunes.dev@gmail.com)  
 - 🔗 **LinkedIn:** [Victória de Carvalho Nunes](https://www.linkedin.com/in/vict%C3%B3riaxnunes-/)  
-- 📸 **Instagram Profissional:** [@vi.bytes](https://www.instagram.com/vi.bytes)  
-- 🐙 **GitHub:** [@vic
+- 🐙 **GitHub:** [@vicxnunes](https://github.com/vicxnunes)  
