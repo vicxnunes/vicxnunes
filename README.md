@@ -1,7 +1,7 @@
 # Hi, I'm Victória de Carvalho Nunes
 
 Technology student passionate about software development and problem solving.  
-Currently studying **Analysis and Systems Development** at Estácio. I enjoy building logic-based programs and improving my skills through real academic challenges.
+Currently studying **Analysis and Systems Development** at Pontífica Universidade Católica do Rio Grande do Sul. I enjoy building logic-based programs and improving my skills through real academic challenges.
 
 ---
 
